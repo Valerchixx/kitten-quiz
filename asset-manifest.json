@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kitten-quiz/static/css/main.015d3f64.css",
-    "main.js": "/kitten-quiz/static/js/main.bb241c60.js",
+    "main.js": "/kitten-quiz/static/js/main.0b62e6fd.js",
     "static/js/787.83904489.chunk.js": "/kitten-quiz/static/js/787.83904489.chunk.js",
     "static/media/kitten.gif": "/kitten-quiz/static/media/kitten.85b87e2c8d7a016980aa.gif",
     "static/media/img6.png": "/kitten-quiz/static/media/img6.c7eedbaad2e8c5ae0305.png",
@@ -14,11 +14,11 @@
     "static/media/heart.png": "/kitten-quiz/static/media/heart.80b28fe494cddb6f0170.png",
     "index.html": "/kitten-quiz/index.html",
     "main.015d3f64.css.map": "/kitten-quiz/static/css/main.015d3f64.css.map",
-    "main.bb241c60.js.map": "/kitten-quiz/static/js/main.bb241c60.js.map",
+    "main.0b62e6fd.js.map": "/kitten-quiz/static/js/main.0b62e6fd.js.map",
     "787.83904489.chunk.js.map": "/kitten-quiz/static/js/787.83904489.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.015d3f64.css",
-    "static/js/main.bb241c60.js"
+    "static/js/main.0b62e6fd.js"
   ]
 }

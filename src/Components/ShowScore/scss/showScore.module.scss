@@ -1,0 +1,37 @@
+.wrap{
+    .header{
+        font-size: 30px;
+        font-weight: 700;
+        text-align: center;
+        padding-top: 40px;
+        p{
+            margin: 0;
+        }
+    }
+    .imgWrap{
+        img{
+            max-width: 300px;
+            position: absolute;
+            right: 30px;
+            border-radius: 4px;
+        }
+    }
+    .descr{
+        p{
+            font-size: 20px;
+            padding-left: 15px;
+        }
+    }
+    .heartWrap{
+        padding: 30px;
+        img{
+            max-width: 150px;
+            animation: beat 1s infinite;
+        }
+    }
+}
+
+@keyframes beat{
+    0%{transform: scale(1);}
+    50%{transform: scale(0.8);}
+}

@@ -28,8 +28,8 @@ const Quiz = () => {
 		{question: 'Our future kitten?', answers: [
 			{option: 'gray', isCorrect: false, id: 22},
 			{option: 'white', isCorrect: false, id: 40},
-			{option: 'white-gray multicolor', isCorrect: true, id: 5},
-			{option: 'white-black multicolor', isCorrect: false, id: 7},
+			{option: 'multicolor', isCorrect: true, id: 5},
+			{option: 'white-black-grey', isCorrect: false, id: 7},
 		]},
 		{question: 'Таке життя...', answers: [
 			{option: 'воно бентежне', isCorrect: true, id: 87},
